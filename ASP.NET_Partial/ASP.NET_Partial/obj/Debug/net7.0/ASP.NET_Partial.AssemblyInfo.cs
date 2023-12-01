@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET_Partial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0385f382fb21ad4f9664c34bef934218b820c196")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET_Partial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET_Partial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
